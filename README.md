@@ -19,7 +19,7 @@ Hi 👋 My name is Sourodip Kundu
 ===============================
 Batch of 2022 Graduate
 -------------
-I have been programming as a part of course-work for the last six years. Got a Bachelor's in CS Hons from University of Calcutta. Pursuing another Bachelor's in Technology in CSE from University of Calcutta, batch of 2022. Here I got hooked into web development, built enough projects to hopefully call myself, a frontend developer. Currently, I am brushing up on data structures and algorithm, as I recently realised how important it is not just for placement but in general.
+I have been programming as a part of course-work for the last six years. Got a Bachelor's in CS Hons from University of Calcutta. Pursuing another Bachelor's in Technology in CSE from University of Calcutta, batch of 2022. Here I got hooked into web development, built enough projects to hopefully call myself, a frontend developer. Currently, I am brushing up on data structures and algorithm.
 * 🌍  I'm based in Kolkata, India.
 * ✉️  You can contact me at [sourodipkundu.w@gmail.com](mailto:sourodipkundu.w@gmail.com)
 * 🧠  I'm learning Nodejs, a little bit of Cloud and of course DSA!
