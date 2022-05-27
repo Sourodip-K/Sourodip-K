@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi 👋 My name is Sourodip Kundu
 ===============================
-[check=out](https://sourodip-k.github.io/landingPage/)
+[Click Me!](https://sourodip-k.github.io/landingPage/)
 -------------
 Computer Science Engineering, Batch of 2022, University of Calcutta.
 Jack of all trades.
