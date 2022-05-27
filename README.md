@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 
 Hi 👋 My name is Sourodip Kundu
 ===============================
-Batch of 2022 Graduate
+[check=out](https://sourodip-k.github.io/landingPage/)
 -------------
-I have been programming as a part of course-work for the last six years. Got a Bachelor's in CS Hons from University of Calcutta. Pursuing another Bachelor's in Technology in CSE from University of Calcutta, Batch of 2022. Here I got hooked into web development, built enough projects to call myself, a frontend developer primarily focussing on React.js. As a part of curriculum, I had Artificial Intelligence, and Data Science and am exploring my footing there too. Currently, I am brushing up on data structures and algorithms.
+Computer Science Engineering, Batch of 2022, University of Calcutta.
+Jack of all trades.
+Still figuring out what I want to be.
+Interest lies in Web development, Java, AI and ML.
+
 * 🌍  I'm based in Kolkata, India.
 * ✉️  You can contact me at [sourodipkundu.w@gmail.com](mailto:sourodipkundu.w@gmail.com)
-* 🧠  I'm learning Nodejs, a little bit of Cloud and of course DSA!
+* 🧠  Currently in my final semester and focussing on my final year project!
 * 🤝  Recently I came across the term Open Source Development and am exploring that too.
 
 ### Skills
